@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
 	<about>
-		<name>Testing</name>
-		<world>world</world>
+		<name>Testing 6</name>
+		<world>testing</world>
 		<min-items>1</min-items>
 		<max-items>8</max-items>
 		<tokens>5</tokens>
