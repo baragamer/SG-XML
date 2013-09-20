@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<about>
+		<name>Testing</name>
+		<world>world</world>
+		<min-items>1</min-items>
+		<max-items>8</max-items>
+		<tokens>5</tokens>
+		<min>2</min>
+	</about>
+	
+	<spawn>
+		<x>-274.5</x>
+		<y>78</y>
+		<z>292.5</z>
+		<yaw>-90</yaw>
+		<pitch>0</pitch>
+	</spawn>
+	
+	<spawn>
+		<x>-279.5</x>
+		<y>78</y>
+		<z>292.5</z>
+		<yaw>-90</yaw>
+		<pitch>0</pitch>
+	</spawn>
+	
+	<spawn>
+		<x>-279.5</x>
+		<y>78</y>
+		<z>297.5</z>
+		<yaw>-90</yaw>
+		<pitch>0</pitch>
+	</spawn>
+	
+	<spawn>
+		<x>-274.5</x>
+		<y>78</y>
+		<z>292.5</z>
+		<yaw>-90</yaw>
+		<pitch>0</pitch>
+	</spawn>
+	
+	<pos1>
+		<x>-297</x>
+		<y>104</y>
+		<z>197</z>
+	</pos1>
+	
+	<pos1>
+		<x>-897</x>
+		<y>4</y>
+		<z>897</z>
+	</pos1>
+</map>
