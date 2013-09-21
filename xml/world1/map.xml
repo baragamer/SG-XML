@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
 	<about>
-		<name>Testing 1</name>
-		<world>testing</world>
-		<min-items>1</min-items>
-		<max-items>8</max-items>
+		<name>Teweran Survival Games 1</name>
+		<world>TWSG1</world>
+		<min-items>3</min-items>
+		<max-items>5</max-items>
 		<tokens>5</tokens>
 		<min>2</min>
 	</about>
 	
 	<spawn>
-		<x>-274.5</x>
-		<y>78</y>
-		<z>292.5</z>
-		<yaw>-90</yaw>
+		<x>480.5</x>
+		<y>13</y>
+		<z>704.5</z>
+		<yaw>-15.56</yaw>
 		<pitch>0</pitch>
 	</spawn>
 	
 	<spawn>
-		<x>-279.5</x>
-		<y>78</y>
-		<z>292.5</z>
-		<yaw>-90</yaw>
+		<x>485.5</x>
+		<y>13</y>
+		<z>706.5</z>
+		<yaw>30.116</yaw>
 		<pitch>0</pitch>
 	</spawn>
 	
 	<spawn>
-		<x>-279.5</x>
-		<y>78</y>
-		<z>297.5</z>
-		<yaw>-90</yaw>
+		<x>489.5</x>
+		<y>13</y>
+		<z>709.5</z>
+		<yaw>45.813</yaw>
 		<pitch>0</pitch>
 	</spawn>
 	
 	<spawn>
-		<x>-274.5</x>
-		<y>78</y>
-		<z>292.5</z>
-		<yaw>-90</yaw>
+		<x>492.5</x>
+		<y>13</y>
+		<z>713.5</z>
+		<yaw>59.5</yaw>
 		<pitch>0</pitch>
 	</spawn>
 	
 	<pos1>
-		<x>-297</x>
-		<y>104</y>
-		<z>197</z>
+		<x>502</x>
+		<y>20</y>
+		<z>1197</z>
 	</pos1>
 	
 	<pos2>
-		<x>-897</x>
-		<y>4</y>
-		<z>897</z>
+		<x>944</x>
+		<y>255</y>
+		<z>854</z>
 	</pos2>
 </map>
