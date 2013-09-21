@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
 	<map>
-		<name>world1</name>
-	</map>
-	
-	<map>
 		<name>world2</name>
 	</map>
 	
 	<map>
 		<name>world3</name>
+	</map>
+	
+	<map>
+		<name>world1</name>
 	</map>
 	
 	<map>
