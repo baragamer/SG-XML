@@ -3,7 +3,7 @@
 	<spawn>
 		<world>world</world>
 		<x>0.5</x>
-		<y>150</y>
+		<y>64</y>
 		<z>0.5</z>
 		<yaw>90</yaw>
 		<pitch>0</pitch>
